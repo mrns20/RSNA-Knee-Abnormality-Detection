@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+iterative-stratification
+torch
+torchvision
+pydicom
+opencv-python-headless
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+sentence-transformers
+tqdm
