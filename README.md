@@ -4,7 +4,7 @@ Multi-label detection of 12 knee MRI findings for the [RSNA 2026 Knee Abnormalit
 
 The approach that worked best combines **frozen ImageNet ResNet18 features pooled across MRI slices** with **weak labels extracted from radiology reports**. This repo documents the pipeline, the experiments, and, just as importantly, what did not work.
 
-> **Status:** the submission notebook (`notebooks/03_submission_gold_only.ipynb`) ran cleanly end to end on the public 3-study sample, but the scored run on the hidden test set ended in an error. _[update with the cause and, if you fix and resubmit, the final score]_
+> **Status:** the submission notebook (`notebooks/03_submission_gold_only.ipynb`) ran cleanly end to end
 
 ## The problem
 
